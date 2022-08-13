@@ -2,7 +2,7 @@
 
 [![servo-bb.png](https://i.postimg.cc/wMdDYLZY/servo-bb.png)](https://postimg.cc/VrDJjrzK)
 
-Control de la posición de un servomotor sin usal la libreria servo.
+Control de la posición de un servomotor sin usar la libreria servo.
 
 ## Hardware y software necesarios
 - Placa de desarrollo Arduino 
